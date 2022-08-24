@@ -1,0 +1,546 @@
+ 
+ 
+ ==================18/07/2022 08:50:19 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => customer_details
+    [menu] => Customer Details
+    [menu_image_id] => fas fa-address-book
+    [show_user_profile] => Enable
+    [menu_order] => 2
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 10
+)
+ 
+ 
+ ==================18/07/2022 08:50:19 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================18/07/2022 08:51:06 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => customer_details
+    [menu] => Customer Details
+    [menu_image_id] => fas fa-address-book
+    [show_user_profile] => Enable
+    [menu_order] => 2
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 10
+)
+ 
+ 
+ ==================18/07/2022 08:51:06 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================18/07/2022 08:56:26 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => payment_details
+    [menu] => Payment Details
+    [menu_image_id] => fas fa-dolly
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 12
+)
+ 
+ 
+ ==================18/07/2022 08:56:26 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================18/07/2022 08:58:37 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => 
+    [menu_value] => 
+)
+ 
+ 
+ ==================18/07/2022 08:58:37 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================18/07/2022 09:00:03 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => address
+    [menu] => Address
+    [menu_image_id] => fas fa-home
+    [show_user_profile] => Enable
+    [menu_order] => 5
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 16
+)
+ 
+ 
+ ==================18/07/2022 09:00:03 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================18/07/2022 09:10:52 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => add_products
+    [menu] => Add Products
+    [menu_image_id] => fas fa-plus-square
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:6:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 18
+)
+ 
+ 
+ ==================18/07/2022 09:10:52 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:03:22 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:65:"http://localhost/wordpress/wp-admin/edit.php?post_type=shop_order";}
+)
+ 
+ 
+ ==================19/07/2022 07:03:22 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:03:52 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:6:"_blank";s:3:"url";s:65:"http://localhost/wordpress/wp-admin/edit.php?post_type=shop_order";}
+)
+ 
+ 
+ ==================19/07/2022 07:03:52 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:04:27 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:6:"_blank";s:3:"url";s:65:"http://localhost/wordpress/wp-admin/edit.php?post_type=shop_order";}
+)
+ 
+ 
+ ==================19/07/2022 07:04:27 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:06:42 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => add_products
+    [menu] => Add Products
+    [menu_image_id] => fas fa-plus-square
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:6:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:6:"_blank";s:3:"url";s:66:"http://localhost/wordpress/wp-admin/post-new.php?post_type=product";}
+)
+ 
+ 
+ ==================19/07/2022 07:06:42 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:07:04 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => add_products
+    [menu] => Add Products
+    [menu_image_id] => fas fa-plus-square
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:6:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:6:"_blank";s:3:"url";s:66:"http://localhost/wordpress/wp-admin/post-new.php?post_type=product";}
+)
+ 
+ 
+ ==================19/07/2022 07:07:04 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:08:05 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => customer_details
+    [menu] => Customer Details
+    [menu_image_id] => fas fa-address-book
+    [show_user_profile] => Enable
+    [menu_order] => 2
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:77:"http://localhost/wordpress/wp-admin/admin.php?page=wc-admin&path=%2Fcustomers";}
+)
+ 
+ 
+ ==================19/07/2022 07:08:05 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:13:05 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => payment_details
+    [menu] => Payment Details
+    [menu_image_id] => fas fa-dolly
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:75:"http://localhost/wordpress/wp-admin/admin.php?page=wc-settings&tab=checkout";}
+)
+ 
+ 
+ ==================19/07/2022 07:13:05 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:18:50 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => view_products
+    [menu] => View Products
+    [menu_image_id] => 
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:9:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";i:7;s:8:"customer";i:8;s:12:"shop_manager";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 18
+)
+ 
+ 
+ ==================19/07/2022 07:18:50 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/07/2022 07:20:26 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => view_products
+    [menu] => View Products
+    [menu_image_id] => fab fa-phabricator
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:9:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";i:7;s:8:"customer";i:8;s:12:"shop_manager";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 18
+)
+ 
+ 
+ ==================19/07/2022 07:20:26 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================20/07/2022 09:44:07 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 14
+)
+ 
+ 
+ ==================20/07/2022 09:44:07 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================20/07/2022 11:13:32 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => your_order
+    [menu] => Your Order
+    [menu_image_id] => fas fa-check
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:9:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";i:7;s:8:"customer";i:8;s:12:"shop_manager";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 14
+)
+ 
+ 
+ ==================20/07/2022 11:13:32 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================20/07/2022 11:44:23 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => new
+    [menu] => new
+    [menu_image_id] => fas fa-book-open
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:9:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";i:7;s:8:"customer";i:8;s:12:"shop_manager";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 14
+)
+ 
+ 
+ ==================20/07/2022 11:44:23 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================20/07/2022 11:45:04 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => new
+    [menu] => new
+    [menu_image_id] => fas fa-book-open
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:9:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";i:7;s:8:"customer";i:8;s:12:"shop_manager";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:93:"http://localhost/wordpress/order-history/?preview_id=14&preview_nonce=2f66be602c&preview=true";}
+)
+ 
+ 
+ ==================20/07/2022 11:45:04 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================20/07/2022 11:53:18 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:93:"http://localhost/wordpress/order-history/?preview_id=14&preview_nonce=2f66be602c&preview=true";}
+)
+ 
+ 
+ ==================20/07/2022 11:53:18 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================20/07/2022 14:57:10 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 14
+)
+ 
+ 
+ ==================20/07/2022 14:57:10 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================20/07/2022 14:57:48 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:93:"http://localhost/wordpress/order-history/?preview_id=14&preview_nonce=2f66be602c&preview=true";}
+)
+ 
+ 
+ ==================20/07/2022 14:57:48 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================21/07/2022 08:05:13 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:41:"http://localhost/wordpress/order-history/";}
+)
+ 
+ 
+ ==================21/07/2022 08:05:13 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================21/07/2022 12:33:29 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => payment_details
+    [menu] => Payment Details
+    [menu_image_id] => fas fa-dolly
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 14
+)
+ 
+ 
+ ==================21/07/2022 12:33:29 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================21/07/2022 12:34:12 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => payment_details
+    [menu] => Payment Details
+    [menu_image_id] => fas fa-dolly
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => url
+    [menu_value] => a:2:{s:6:"target";s:5:"_self";s:3:"url";s:75:"http://localhost/wordpress/wp-admin/admin.php?page=wc-settings&tab=checkout";}
+)
+ 
+ 
+ ==================21/07/2022 12:34:12 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================21/07/2022 12:34:25 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => order_history
+    [menu] => Order History
+    [menu_image_id] => fas fa-truck-loading
+    [show_user_profile] => Enable
+    [menu_order] => 4
+    [user_role] => a:7:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:9:"customers";i:6;s:9:"parteners";}
+    [extended] => 
+    [menu_key] => yes
+    [menu_value] => 14
+)
+ 
+ 
+ ==================21/07/2022 12:34:25 (DEBUG) END================== 
+ 
+ 
